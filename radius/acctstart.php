@@ -18,7 +18,6 @@
  */
   
 <?php
-//exec("mkdir /kana/");
 $f = fopen( 'php://stdin', 'r' );
 while( $input = fgets( $f ) ) {
 //while( $input = readline() ) {
