@@ -18,9 +18,9 @@
  */
  
 <?php
-$apipass = "Spectrum2015420"; // softether hub password
-$radiussrv = "31.186.251.70"; // radius server address
-$radiuspass = "MiNLLbnU5JUZaElr"; // radius secret
+$apipass = ""; // softether hub password
+$radiussrv = ""; // radius server address
+$radiuspass = ""; // radius secret
 $radiusport = "1813"; // radius server accounting port
 $database = "/var/radius/sessions.db"; // temporary database location
 $tmpdir = "/tmp"; // temporary directory
