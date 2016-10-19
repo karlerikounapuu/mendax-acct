@@ -1,2 +1,2 @@
 # mendax-acct
-Accounting for SoftEther
+This project should add accounting features to all-in-one commercial VPN solution called SoftEther backed by FreeRadius. SoftEther does not have a solution to send accounting packages to FreeRadius by itself, this project should fix that. It utilizes syslog-ng and PHP cronjobs to capture user data from log files and crafts it into accounting packages.
